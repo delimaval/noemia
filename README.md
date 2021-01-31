@@ -1,0 +1,1 @@
+Alterado o readme para descrever melhor o sistema.
